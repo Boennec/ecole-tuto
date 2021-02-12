@@ -1,0 +1,18 @@
+{
+  "name": "ecole-tuto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.15",
+    "save": "^2.4.0",
+    "start": "^5.1.0"
+  }
+}
